@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+        'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #181a1b;
+    background-color: #fff;
+    background-repeat: no-repeat !important;
+}
+
+.text-primary {
+    color: rgba(249, 211, 180, 1) 0% !important;
+}
+
+.banner-img {
+    width: 100%;
+    background: url("./assets/sun.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,10 @@
+.footerHolder {
+    width: 100%;
+    background-color: #f8f8f8;
+    border-top: 1px solid #e9e9e9;
+    bottom: 0;
+}
+
+.aboutUs {
+    text-align: right;
+}
